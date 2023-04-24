@@ -1,0 +1,7 @@
+matplotlib
+pandas
+psycopg2
+requests
+seaborn
+sqlalchemy
+tqdm
